@@ -2,8 +2,6 @@
 
 ### Estudiante de Ingeniería en Tecnologías de la Información y Comunicaciones
 
-Estudiante del **Tecnológico Nacional de México – Campus La Piedad**.
-
 Me interesa el **desarrollo de software**, los **sistemas embebidos**, el **Internet de las Cosas (IoT)** y la aplicación de la tecnología para resolver problemas reales.
 
 He participado en proyectos académicos y personales relacionados con **software, bases de datos, IoT, automatización y visión por computadora**.
